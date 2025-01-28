@@ -1,0 +1,35 @@
+HEADER 
+TITLE     Built with Packmol through Packmol Memgen                      
+REMARK   Packmol generated pdb file, Packmol Memgen estimated parameters 
+REMARK   Home-Page: http://www.ime.unicamp.br/~martinez/packmol
+REMARK
+ATOM      1  N1  CYT X   1       1.329   0.284  -0.041  1.00  0.00      1    N  
+ATOM      2  H1  CYT X   1      -0.543   2.807   0.386  1.00  0.00      1    H  
+ATOM      3  C1  CYT X   1       0.177   0.924   0.005  1.00  0.00      1    C  
+ATOM      4  N2  CYT X   1       0.232   2.293  -0.010  1.00  0.00      1    N  
+ATOM      5  C2  CYT X   1      -1.110   0.286   0.008  1.00  0.00      1    C  
+ATOM      6  H2  CYT X   1      -2.036   0.848   0.031  1.00  0.00      1    H  
+ATOM      7  C3  CYT X   1      -1.103  -1.072  -0.040  1.00  0.00      1    C  
+ATOM      8  H3  CYT X   1      -2.004  -1.677  -0.043  1.00  0.00      1    H  
+ATOM      9  N3  CYT X   1       0.081  -1.734  -0.091  1.00  0.00      1    N  
+ATOM     10  H4  CYT X   1       0.118  -2.747  -0.128  1.00  0.00      1    H  
+ATOM     11  C4  CYT X   1       1.348  -1.096  -0.100  1.00  0.00      1    C  
+ATOM     12  O   CYT X   1       2.359  -1.788  -0.150  1.00  0.00      1    O  
+ATOM     13  H5  CYT X   1       1.153   2.675   0.174  1.00  0.00      1    H  
+ATOM     14  N1  GUA A   1       3.519   2.134  -2.865  1.00  0.00      L    N  
+ATOM     15  C1  GUA A   1       3.975   1.151  -3.625  1.00  0.00      L    C  
+ATOM     16  N2  GUA A   1       2.970   0.393  -4.180  1.00  0.00      L    N  
+ATOM     17  N3  GUA A   1       0.539   0.456  -4.061  1.00  0.00      L    N  
+ATOM     18  C2  GUA A   1      -0.402   1.184  -3.511  1.00  0.00      L    C  
+ATOM     19  N4  GUA A   1      -0.161   2.273  -2.710  1.00  0.00      L    N  
+ATOM     20  C3  GUA A   1       1.114   2.798  -2.332  1.00  0.00      L    C  
+ATOM     21  C4  GUA A   1       2.150   1.998  -2.937  1.00  0.00      L    C  
+ATOM     22  C5  GUA A   1       1.784   0.928  -3.753  1.00  0.00      L    C  
+ATOM     23  H1  GUA A   1      -1.832   0.026  -4.265  1.00  0.00      L    H  
+ATOM     24  H2  GUA A   1       5.020   0.939  -3.808  1.00  0.00      L    H  
+ATOM     25  H3  GUA A   1       3.066  -0.406  -4.796  1.00  0.00      L    H  
+ATOM     26  O   GUA A   1       1.180   3.787  -1.612  1.00  0.00      L    O  
+ATOM     27  H4  GUA A   1      -0.943   2.841  -2.395  1.00  0.00      L    H  
+ATOM     28  N5  GUA A   1      -1.733   0.916  -3.786  1.00  0.00      L    N  
+ATOM     29  H5  GUA A   1      -2.363   0.991  -2.992  1.00  0.00      L    H  
+END
